@@ -24,13 +24,13 @@ I'm an Electrical and Embedded Systems Engineering student at **ENSA Agadir**, p
 `C/C++ (Embedded)` • `Verilog / HLS` • `Python / Flask` • `JavaScript / TS` • `Next.js`
 
 ### ⬡ Embedded Systems
-`ESP32 / FreeRTOS` • `Cyclone V HPS` • `ARM Cortex / Nios V` • `DSP / TMS320` • `Raspberry Pi`
+`ESP32 / FreeRTOS` • `Cyclone V HPS` • `ARM Cortex` • `DSP / TMS320` • `Raspberry Pi` • ` Nios V`
 
 ### ◈ AI & Machine Learning
 `TinyML / TFLite` • `PPO / Reinforcement Learning` • `CNN-LSTM Forecasters` • `OpenCV / Computer Vision`
 
 ### ⬣ Hardware Design
-`FPGA / Avalon-MM` • `RV32I Architecture` • `Shadow Stack / MMU` • `CATIA V5` • `AutoCAD` • `Caneco BT`
+`FPGA / Avalon-MM` • `RV32I Architecture` • `Shadow Stack / MMU` 
 
 ---
 
